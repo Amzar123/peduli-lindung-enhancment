@@ -12,7 +12,7 @@ class DetailMedicalPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(keluhan),
+        title: Text("Medical Record"),
       ),
     );
   }
